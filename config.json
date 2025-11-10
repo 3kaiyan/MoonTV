@@ -84,6 +84,198 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+   {
+  "sites": [
+    {
+      "key": "csp_PanSearch",
+      "name": "🟢盘搜聚合",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9977"
+    },
+    {
+      "key": "AliPS",
+      "name": "🟢阿里云盘",
+      "type": 3,
+      "api": "csp_AliPanSou",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "UpYun",
+      "name": "🟢Up云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PushAgent",
+      "name": "🟢推送代理",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Yisou",
+      "name": "🟢易搜",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PanSou",
+      "name": "🟢盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PanXun",
+      "name": "🟢盘训",
+      "type": 3,
+      "api": "csp_PanXun",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KuKu",
+      "name": "🟢KuKu",
+      "type": 3,
+      "api": "csp_KuKu",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xiaomi",
+      "name": "🟢小米",
+      "type": 3,
+      "api": "csp_Xiaomi",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "NanGua",
+      "name": "🟢南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "LiteApple",
+      "name": "🟢轻苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Bili",
+      "name": "🟢哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "YouKu",
+      "name": "🟢优酷",
+      "type": 3,
+      "api": "csp_Youku",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "iQiYi",
+      "name": "🟢爱奇艺",
+      "type": 3,
+      "api": "csp_IqiYi",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Tencent",
+      "name": "🟢腾讯",
+      "type": 3,
+      "api": "csp_Tencent",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Mango",
+      "name": "🟢芒果",
+      "type": 3,
+      "api": "csp_Mango",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "LeShi",
+      "name": "🟢乐视",
+      "type": 3,
+      "api": "csp_LeShi",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppleCMS_1",
+      "name": "🟢苹果1号",
+      "type": 1,
+      "api": "https://api1.shiyahao.eu.org",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppleCMS_2",
+      "name": "🟢苹果2号",
+      "type": 1,
+      "api": "https://cj.lzihai.com",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Drpy_js_量子",
+      "name": "🟢量子资源",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/量子.js",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "量子"
     }
-  }
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json",
+      "type": 3,
+      "url": "Universal"
+    }
+  ],
+  "flags": ["youku", "qq", "iqiyi", "mango", "letv", "bilibili"],
+  "ijk": [
+    {
+      "group": "软解",
+      "options": [
+        {"category": 4, "name": "framedrop", "value": 5},
+        {"category": 4, "name": "skip_loop_filter", "value": 48}
+      ]
+    }
+  ],
+  "wall": "https://i0.wp.com/img.zhhainan.com/tuchong/2024/11/08/1731072899.jpg",
+  "ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com"]
 }
