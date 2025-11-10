@@ -84,47 +84,109 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-   "lziapi": {
-    "api": "https://cj.lziapi.com/api.php/provide/vod/", "detail": "https://cj.lziapi.com" ,
-     "name": "量子资源"
+      },
+    "fantuan": {
+     "api": "https://www.fantuan.tv/api.php/provide/vod/" 
+     "name": “饭团影视”
+     },
+    "lziapi": {
+    "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    "name": "量子资源"
      },
     "1080json": {
-    "api": "https://api.1080zyku.com/inc/apijson.php", "detail": "https://api.1080zyku.com" ,
+    "api": "https://api.1080zyku.com/inc/apijson.php",
     "name": "1080资源"
+     "detail": "https://api.1080zyku.com" ,
     },
     "1080ff": {
-     "api": "https://api.1080zyku.com/inc/feifei3/", "detail": "https://api.1080zyku.com" ,
-    "name": "1080飞飞" 
-    },
+     "api": "https://api.1080zyku.com/inc/feifei3/", 
+     "name": "1080飞飞" 
+     "detail": "https://api.1080zyku.com" ,
+   },
     "heimuer": {
-     "api": "https://heimuer.tv/api.php/provide/vod/", "detail": "https://heimuer.tv" 
+     "api": "https://heimuer.tv/api.php/provide/vod/", 
      "name": "黑木耳"
+     "detail": "https://heimuer.tv" 
      },
     "bfzy": {
-     "api": "https://bfzyapi.com/api.php/provide/vod/", "detail": "https://bfzyapi.com"
+     "api": "https://bfzyapi.com/api.php/provide/vod/", 
      "name": "暴风资源"
+     "detail": "https://bfzyapi.com"
      },
     "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod/", "detail": "https://api.wujinapi.me"
+      "api": "https://api.wujinapi.me/api.php/provide/vod/", 
       "name": "无尽资源"
-       },
+      "detail": "https://api.wujinapi.me"
+     },
     "ffzy": {
-     "api": "https://cj.ffzyapi.com/api.php/provide/vod/", "detail": "https://cj.ffzyapi.com"
+     "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
      "name": "非凡资源"
+     "detail": "https://cj.ffzyapi.com"
       },
     "saohuo": { 
-    "api": "https://saohuo.vip/api.php/provide/vod/", "detail": "https://saohuo.vip"
+    "api": "https://saohuo.vip/api.php/provide/vod/",
      "name": "骚火资源"
+     "detail": "https://saohuo.vip"
      },
     "wolong": {
-     "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "detail": "https://collect.wolongzyw.com" 
+     "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
      "name": "卧龙资源"
+     "detail": "https://collect.wolongzyw.com"
      },
     "shandian": {
-    "api": "https://api.shandianzy.com/api.php/provide/vod/", "detail": "https://api.shandianzy.com"
+    "api": "https://api.shandianzy.com/api.php/provide/vod/",
      "name": "闪电资源"
-      
+      "detail": "https://api.shandianzy.com"
+     },
+    "baiji": { 
+    "api": "https://baijiapi.com/api.php/provide/vod/",
+    name": "八戒资源"
+    "detail": "https://baijiapi.com"
+     },
+    "jyzy": { 
+    "api": "https://jyzyapi.com/api.php/provide/vod/",  
+    name": "金鹰资源"
+     "detail": "https://jyzyapi.com"
+     },
+    "4kvm": { 
+    "api": "https://api.4kvm.com/api.php/provide/vod/",
+    name": "4KVM超清"
+    "detail": "https://api.4kvm.com"
+    },
+    "dyvod": { 
+    "api": "https://api.dyvod.tv/api.php/provide/vod/", 
+    name": "抖音影视"
+    "detail": "https://api.dyvod.tv" 
+    },
+    "disney1": { 
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    name": "迪士尼量子"
+    "detail": "https://cj.lziapi.com"
+     },
+    "disney2": {
+    "api": "https://api.1080zyku.com/inc/feifei3/",
+    "name": "迪士尼1080"
+    "detail": "https://api.1080zyku.com"
+     },
+    "disney3": {
+    "api": "https://bfzyapi.com/api.php/provide/vod/",
+    "name": "迪士尼暴风"
+     "detail": "https://bfzyapi.com" 
+    },
+    "disney4": {
+    "api": "https://saohuo.vip/api.php/provide/vod/",
+     "name": "迪士尼骚火"
+     "detail": "https://saohuo.vip"
+   },
+    "disney5": { 
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    name": "迪士尼卧龙"
+     "detail": "https://collect.wolongzyw.com" 
+    },
+    "disney6": { 
+    "api": "https://api.4kvm.com/api.php/provide/vod/",
+    "name": "迪士尼4KVM" 
+    "detail": "https://api.4kvm.com"
        }
   }
 }
