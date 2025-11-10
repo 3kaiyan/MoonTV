@@ -107,14 +107,3 @@
     "disney4": { "name": "迪士尼骚火", "api": "https://saohuo.vip/api.php/provide/vod/", "detail": "https://saohuo.vip" },
     "disney5": { "name": "迪士尼卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "detail": "https://collect.wolongzyw.com" },
     "disney6": { "name": "迪士尼4KVM", "api": "https://api.4kvm.com/api.php/provide/vod/", "detail": "https://api.4kvm.com" }
-  },
-  "custom_category": [
-    { "name": "热映电影", "type": "movie", "query": "热门" },
-    { "name": "追剧榜", "type": "tv", "query": "热门" },
-    { "name": "迪士尼+", "type": "all", "query": "迪士尼" },
-    { "name": "漫威宇宙", "type": "all", "query": "漫威" },
-    { "name": "星球大战", "type": "all", "query": "星球大战" },
-    { "name": "皮克斯动画", "type": "all", "query": "皮克斯" },
-    { "name": "国家地理", "type": "all", "query": "国家地理" }
-  ]
-}
