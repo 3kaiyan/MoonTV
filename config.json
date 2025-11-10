@@ -192,5 +192,3 @@
       "filterable": 1
     }
   ]
-  // 把上面这段粘到我第一个 config.json 的 sites 数组里即可
-}
