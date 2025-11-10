@@ -148,11 +148,6 @@
     "api": "https://saohuo.vip/api.php/provide/vod/",
      "name": "迪士尼骚火"
      "detail": "https://saohuo.vip"
-   },
-    "disney6": { 
-    "api": "https://api.4kvm.com/api.php/provide/vod/",
-    "name": "迪士尼4KVM" 
-    "detail": "https://api.4kvm.com"
        }
   }
 }
