@@ -165,3 +165,32 @@
   "wall": "https://i0.wp.com/img.zhhainan.com/tuchong/2024/11/08/1731072899.jpg",
   "ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com"]
 }
+{
+  "sites": [
+    {
+      "key": "wolong",
+      "name": "卧龙（加速）",
+      "type": 3,
+      "api": "https://ghproxy.com/https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "saohuo",
+      "name": "骚火（加速）",
+      "type": 3,
+      "api": "https://ghproxy.com/https://saohuo.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shandian",
+      "name": "闪电（加速）",
+      "type": 3,
+      "api": "https://ghproxy.com/https://api.shandianzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    }
+  ]
+  // 把上面这段粘到我第一个 config.json 的 sites 数组里即可
+}
