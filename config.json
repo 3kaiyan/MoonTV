@@ -5,6 +5,3 @@
     {"key": "variety", "name": "热门综艺", "type": 1, "api": "https://api1.shiyahao.eu.org", "categories": "3"},
     {"key": "anime", "name": "热门动漫", "type": 1, "api": "https://cj.lzihai.com", "categories": "4"}
   ],
-  "sites": [ ...你的 sites 数组... ],
-  ...其他内容不变
-}
