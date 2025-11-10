@@ -124,46 +124,7 @@
     "shandian": {
     "api": "https://api.shandianzy.com/api.php/provide/vod/", "detail": "https://api.shandianzy.com"
      "name": "闪电资源"
-     },
-    "baiji": { 
-    "api": "https://baijiapi.com/api.php/provide/vod/", "detail": "https://baijiapi.com"
-    name": "八戒资源"
-     },
-    "jyzy": { 
-    "api": "https://jyzyapi.com/api.php/provide/vod/", "detail": "https://jyzyapi.com"
-    name": "金鹰资源"
-     },
-    "4kvm": { 
-    "api": "https://api.4kvm.com/api.php/provide/vod/", "detail": "https://api.4kvm.com"
-    name": "4KVM超清"
-    },
-    "dyvod": { 
-    "api": "https://api.dyvod.tv/api.php/provide/vod/", "detail": "https://api.dyvod.tv" 
-    name": "抖音影视"
-    },
-    "disney1": { 
-    "api": "https://cj.lziapi.com/api.php/provide/vod/", "detail": "https://cj.lziapi.com"
-    name": "迪士尼量子"
-     },
-    "disney2": {
-    "api": "https://api.1080zyku.com/inc/feifei3/", "detail": "https://api.1080zyku.com"
-    "name": "迪士尼1080"
-     },
-    "disney3": {
-    "api": "https://bfzyapi.com/api.php/provide/vod/", "detail": "https://bfzyapi.com" 
-    "name": "迪士尼暴风"
-    },
-    "disney4": {
-    "api": "https://saohuo.vip/api.php/provide/vod/", "detail": "https://saohuo.vip"
-     "name": "迪士尼骚火"
-   },
-    "disney5": { 
-    "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "detail": "https://collect.wolongzyw.com" 
-    name": "迪士尼卧龙"
-    },
-    "disney6": { 
-    "api": "https://api.4kvm.com/api.php/provide/vod/", "detail": "https://api.4kvm.com"
-    "name": "迪士尼4KVM" 
+      
        }
   }
 }
