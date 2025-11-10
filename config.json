@@ -107,3 +107,43 @@
     "disney4": { "name": "迪士尼骚火", "api": "https://saohuo.vip/api.php/provide/vod/", "detail": "https://saohuo.vip" },
     "disney5": { "name": "迪士尼卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "detail": "https://collect.wolongzyw.com" },
     "disney6": { "name": "迪士尼4KVM", "api": "https://api.4kvm.com/api.php/provide/vod/", "detail": "https://api.4kvm.com" }
+{
+  "site_name": "LibreTV Pro",
+  "site_announcement": "2025.11.10 法国超稳版 · 68个高清源 · 迪士尼/4K随便看",
+  "search_page_size": 30,
+  "cache_time": 7200,
+  "image_proxy": "",
+  "api_site": {
+    "fantuan": { "name": "饭团影视", "api": "https://www.fantuan.tv/api.php/provide/vod/" },
+    "lziapi": { "name": "量子资源", "api": "https://cj.lziapi.com/api.php/provide/vod/" },
+    "1080json": { "name": "1080资源", "api": "https://api.1080zyku.com/inc/apijson.php" },
+    "1080ff": { "name": "1080飞飞", "api": "https://api.1080zyku.com/inc/feifei3/" },
+    "heimuer": { "name": "黑木耳", "api": "https://heimuer.tv/api.php/provide/vod/" },
+    "bfzy": { "name": "暴风资源", "api": "https://bfzyapi.com/api.php/provide/vod/" },
+    "wujin": { "name": "无尽资源", "api": "https://api.wujinapi.me/api.php/provide/vod/" },
+    "ffzy": { "name": "非凡资源", "api": "https://cj.ffzyapi.com/api.php/provide/vod/" },
+    "saohuo": { "name": "骚火资源", "api": "https://saohuo.vip/api.php/provide/vod/" },
+    "wolong": { "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
+    "shandian": { "name": "闪电资源", "api": "https://api.shandianzy.com/api.php/provide/vod/" },
+    "baiji": { "name": "八戒资源", "api": "https://baijiapi.com/api.php/provide/vod/" },
+    "jyzy": { "name": "金鹰资源", "api": "https://jyzyapi.com/api.php/provide/prov ide/vod/" },
+    "4kvm": { "name": "4KVM超清", "api": "https://api.4kvm.com/api.php/provide/vod/" },
+    "hongniu": { "name": "红牛资源", "api": "https://hongniuzy2.com/api.php/provide/vod/" },
+    "siguyy": { "name": "思古影视", "api": "https://api.siguyy.com/api.php/provide/vod/" },
+    "disney1": { "name": "迪士尼量子", "api": "https://cj.lziapi.com/api.php/provide/vod/" },
+    "disney2": { "name": "迪士尼1080", "api": "https://api.1080zyku.com/inc/feifei3/" },
+    "disney3": { "name": "迪士尼暴风", "api": "https://bfzyapi.com/api.php/provide/vod/" },
+    "disney4": { "name": "迪士尼骚火", "api": "https://saohuo.vip/api.php/provide/vod/" },
+    "disney5": { "name": "迪士尼卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
+    "disney6": { "name": "迪士尼4KVM", "api": "https://api.4kvm.com/api.php/provide/vod/" }
+  },
+  "custom_category": [
+    { "name": "热映电影", "type": "movie", "query": "热门" },
+    { "name": "追剧榜", "type": "tv", "query": "热门" },
+    { "name": "迪士尼+", "type": "all", "query": "迪士尼" },
+    { "name": "漫威宇宙", "type": "all", "query": "漫威" },
+    { "name": "星球大战", "type": "all", "query": "星球大战" },
+    { "name": "皮克斯动画", "type": "all", "query": "皮克斯" },
+    { "name": "国家地理", "type": "all", "query": "国家地理" }
+  ]
+}
